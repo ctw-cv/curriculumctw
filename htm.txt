@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum de Catalina Tassin Wallace</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Archivo CSS -->
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Catalina Tassin Wallace</h1>
+            <p>Abogada y Filósofa</p>
+        </div>
+    </header>
+
+    <section id="datos-personales">
+        <h2>Datos Personales</h2>
+        <ul>
+            <li><strong>Nombre:</strong> Catalina Tassin Wallace</li>
+            <li><strong>Nacimiento:</strong> 21/11/1997</li>
+            <li><strong>Teléfono:</strong> 0351-7710693</li>
+            <li><strong>Correo:</strong> <a href="mailto:catutassinwallace97@gmail.com">catutassinwallace97@gmail.com</a></li>
+        </ul>
+    </section>
+
+    <section id="formacion">
+        <h2>Formación Académica</h2>
+        <div class="formacion-item">
+            <h3>Abogacía</h3>
+            <p>Universidad Nacional de Córdoba - Promedio: 8.50</p>
+        </div>
+        <div class="formacion-item">
+            <h3>Profesorado en Filosofía</h3>
+            <p>Universidad Nacional de Córdoba - Promedio: 9.31</p>
+        </div>
+        <!-- Agrega más secciones de tu CV según sea necesario -->
+    </section>
+
+    <footer>
+        <p>© Catalina Tassin Wallace - 2024</p>
+    </footer>
+
+    <script src="script.js"></script> <!-- Archivo JS -->
+</body>
+</html>
